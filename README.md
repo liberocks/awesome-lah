@@ -1,4 +1,4 @@
-# Awesome Proiduct
+# Awesome Product
 An awesome list that curates interesting products.
 
 ## Contents
