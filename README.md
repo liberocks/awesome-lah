@@ -9,4 +9,4 @@ An awesome list that curates interesting products.
 - [Ornament](https://ornament.health/) Prevent health issues before they arrive
 
 ## Cloud Service
-- [Datacrucnh](https://datacrunch.io/) Premium dedicated GPU servers, clusters, and serverless inference
+- [Datacrunch](https://datacrunch.io/) Premium dedicated GPU servers, clusters, and serverless inference
