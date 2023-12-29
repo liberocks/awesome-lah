@@ -13,3 +13,4 @@ An awesome list that curates interesting products.
 
 ## Cloud Service
 - [Datacrunch](https://datacrunch.io/) Premium dedicated GPU servers, clusters, and serverless inference
+- [Salad](https://salad.com/) The World’s Most Affordable GPU Cloud
