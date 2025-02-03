@@ -6,6 +6,8 @@ An awesome list that curates interesting products (and service).
 - [Cloud Service](#cloud-service)
 - [Monitoring](#monitoring)
 - [Security Service](#security-service)
+- [Compliance](#compliance)
+- [Personal Blog](#personal-blog)
 
 ## Healthcare
 - [Ornament](https://ornament.health/) Prevent health issues before they arrive
@@ -18,3 +20,9 @@ An awesome list that curates interesting products (and service).
 
 ## Security Service
 - [Orange Cyber Defense](https://www.orangecyberdefense.com/) Leading security services provider
+
+## Compliance
+- [Vanta](https://www.vanta.com/) Automate compliance, manage risk, and prove trust
+
+## Personal Blog
+- [Zach Hamed](https://zmh.org/) Zach Hamed is a design-focused engineer who enjoys designing, building, and selling software.
