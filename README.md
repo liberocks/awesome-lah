@@ -28,7 +28,7 @@ An awesome list that curates interesting products, project, blog, and service.
 - [Zach Hamed](https://zmh.org/) is a design-focused engineer who enjoys designing, building, and selling software.
 - [Sumit](https://www.sumit.ml/) is a swe based in Tokyo.
 - [Marco Roth](https://marcoroth.dev/) is a Full-Stack Web-Developer based in 🇨🇭 Basel, Switzerland.
-- [Ibam[(https://ibam.id/) is the CTO at GovTech Edu and a two-time Vice President of Engineering for multiple unicorn tech companies.
+- [Ibam](https://ibam.id/) is the CTO at GovTech Edu and a two-time Vice President of Engineering for multiple unicorn tech companies.
 - [Imre Nagi](https://imrenagi.com/#google_vignette) is a Software engineer and Google Developer Expert Cloud.
 - [Anas](https://www.jurnalanas.com/) is a software engineer from Jakarta, Indonesia.
 - [Leticia Portella](https://leportella.com/) is a Python developer from Brazil
