@@ -25,4 +25,14 @@ An awesome list that curates interesting products, project, blog, and service.
 - [Vanta](https://www.vanta.com/) Automate compliance, manage risk, and prove trust
 
 ## Personal Blog
-- [Zach Hamed](https://zmh.org/) Zach Hamed is a design-focused engineer who enjoys designing, building, and selling software.
+- [Zach Hamed](https://zmh.org/) is a design-focused engineer who enjoys designing, building, and selling software.
+- [Sumit](https://www.sumit.ml/) is a swe based in Tokyo.
+- [Marco Roth](https://marcoroth.dev/) is a Full-Stack Web-Developer based in 🇨🇭 Basel, Switzerland.
+- [Ibam[(https://ibam.id/) is the CTO at GovTech Edu and a two-time Vice President of Engineering for multiple unicorn tech companies.
+- [Imre Nagi](https://imrenagi.com/#google_vignette) is a Software engineer and Google Developer Expert Cloud.
+- [Anas](https://www.jurnalanas.com/) is a software engineer from Jakarta, Indonesia.
+- [Leticia Portella](https://leportella.com/) is a Python developer from Brazil
+- [Clarence](https://theodorusclarence.com/) is a developer that works with React Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models
+- [Rizky Maulana Nugraha](https://maulana.id/) is a Software Developer that is currently remotely working from Indonesia.
+- [Han Sena](https://www.hidayatabisena.com/) is a iOS developer with Swift and SwiftUI.
+- [Adityo Pratomo](https://adityop.medium.com/) is currently working as product manager for cloud infra product.
