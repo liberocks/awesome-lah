@@ -1,4 +1,4 @@
-# Awesome Product (and service)
+# Awesome Lah
 An awesome list that curates interesting products, project, blog, and service.
 
 ## Contents
