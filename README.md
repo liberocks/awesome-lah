@@ -8,6 +8,7 @@ An awesome list that curates personal blog, project, interesting products, and s
 - [Monitoring](#monitoring)
 - [Security Service](#security-service)
 - [Compliance](#compliance)
+- [Font Foundry](#font-foundry)
 
 ## Personal Blog
 - [Zach Hamed](https://zmh.org/) is a design-focused engineer who enjoys designing, building, and selling software.
@@ -40,3 +41,6 @@ An awesome list that curates personal blog, project, interesting products, and s
 
 ## Compliance
 - [Vanta](https://www.vanta.com/) Automate compliance, manage risk, and prove trust
+
+## Font Foundry
+- [Tokotype](https://www.tokotype.com/) Tokotype is a leading Indonesian type foundry, crafting high-quality custom and commercial fonts to elevate brands
