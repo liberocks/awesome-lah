@@ -26,6 +26,7 @@ An awesome list that curates interesting products, project, blog, and service.
 
 ## Personal Blog
 - [Zach Hamed](https://zmh.org/) is a design-focused engineer who enjoys designing, building, and selling software.
+- [Zeno Rocha](https://zenorocha.com/) is founder & CEO at Resend
 - [Sumit](https://www.sumit.ml/) is a swe based in Tokyo.
 - [Marco Roth](https://marcoroth.dev/) is a Full-Stack Web-Developer based in 🇨🇭 Basel, Switzerland.
 - [Ibam](https://ibam.id/) is the CTO at GovTech Edu and a two-time Vice President of Engineering for multiple unicorn tech companies.
