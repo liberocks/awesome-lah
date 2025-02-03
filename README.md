@@ -1,5 +1,5 @@
 # Awesome Product (and service)
-An awesome list that curates interesting products (and service).
+An awesome list that curates interesting products, project, blog, and service.
 
 ## Contents
 - [Healthcare](#healthcare)
