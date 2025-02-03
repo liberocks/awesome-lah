@@ -26,6 +26,7 @@ An awesome list that curates personal blog, project, interesting products, and s
 - [Han Sena](https://www.hidayatabisena.com/) is a iOS developer with Swift and SwiftUI.
 - [Modest Mitkus](https://www.modestmitkus.com/) is a solopreneur building pathpages.com and createsell.com
 - [Adityo Pratomo](https://adityop.medium.com/) is currently working as product manager for cloud infra product.
+- [Surya Nareddi](https://surya.website/home-2) is an independent creative technologist who specialises in product and web design.
 
 ## Healthcare
 - [Ornament](https://ornament.health/) Prevent health issues before they arrive
